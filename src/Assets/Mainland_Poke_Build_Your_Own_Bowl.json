@@ -1,0 +1,58 @@
+{
+  "items" : [{
+
+      "itemName" : "4 scoops of fish",
+      "mediaArray" : [
+        {
+          "__type" : "File",
+          "name" : "MP_4_Scoop_Of_Fish",
+          "url" : "https:\/\/s3-us-west-2.amazonaws.com\/wlmerchants\/MP_4_Scoop_Of_Fish.jpg"
+        }
+      ],
+      "itemDescription" : "",
+      "itemPrice" : 14.95
+    },
+    {
+      "itemName" : "2 scoops of fish",
+      "live" : true,
+      "mediaArray" : [
+        {
+          "__type" : "File",
+          "name" : "MP_2_Scoop_Of_Fish",
+          "contentType" : "image\/jpeg",
+          "url" : "https:\/\/s3-us-west-2.amazonaws.com\/wlmerchants\/MP_2_Scoop_Of_Fish.jpg"
+        }
+      ],
+      "itemDescription" : "",
+      "itemPrice" : 9.95
+    },
+    {
+      "itemName" : "3 scoops of fish",
+      "live" : true,
+      "mediaArray" : [
+        {
+          "__type" : "File",
+          "name" : "MP_3_Scoop_Of_Fish",
+          "url" : "https:\/\/s3-us-west-2.amazonaws.com\/wlmerchants\/MP_3_Scoop_Of_Fish.jpg"
+        }
+      ],
+      "itemDescription" : "",
+      "itemPrice" : 12.95
+    },
+    {
+      "itemName" : "Veggie Bowl",
+      "live" : true,
+      "mediaArray" : [
+        {
+          "__type" : "File",
+          "name" : "MP_Veggie_Bowl",
+          "url" : "https:\/\/s3-us-west-2.amazonaws.com\/wlmerchants\/MP_Veggie_Bowl.jpg"
+        }
+      ],
+      "itemDescription" : "",
+      "itemPrice" : 7.95
+    }
+  ],
+
+  "groupName" : "Build Your Own Bowl"
+}

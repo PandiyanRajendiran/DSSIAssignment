@@ -1,0 +1,37 @@
+.footer-container {
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    padding:0 !important;
+}
+
+.order-button {
+    background-color: #1888b3;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+    color: white;
+    border: none;
+    display: inline-block;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+    min-height: 2.5em !important;
+}
+
+.price-label {
+    line-height: 3.5em;
+    font-weight: 700;
+    text-align: center;
+    padding: 0 0 0 10px !important;
+    font-size: 1.5em;
+}
+
+.price-label:before {
+    content: '$ ';
+}
+
+.no-padding {
+    padding : 0 !important;
+}
+
+.no-margin {
+    margin : 0 !important;
+}
